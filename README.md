@@ -23,7 +23,7 @@ This is my personal website where I share my journey in shaping real estate expe
 
 ## Contact
 
-Feel free to reach out at [contact@angadluthra.me](mailto:contact@angadluthra.me) or connect with me on:
+Feel free to reach out at [contact@angadluthra.com](mailto:contact@angadluthra.com) or connect with me on:
 
 - [GitHub](https://github.com/thatnocodedude)
 - [LinkedIn](https://www.linkedin.com/in/angadsinghluthra/)
