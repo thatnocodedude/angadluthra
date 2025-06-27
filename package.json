@@ -1,0 +1,32 @@
+{
+  "name": "angadluthra-website",
+  "version": "1.0.0",
+  "description": "Personal website of Angad Luthra - Developer, Creator, and Innovator",
+  "main": "index.html",
+  "scripts": {
+    "dev": "python -m http.server 8000",
+    "serve": "npx serve .",
+    "build": "echo 'No build step required - static HTML site'",
+    "deploy": "echo 'Deploy to GitHub Pages by pushing to main branch'"
+  },
+  "keywords": [
+    "personal-website",
+    "portfolio",
+    "tailwindcss",
+    "glassmorphism",
+    "responsive",
+    "dark-mode"
+  ],
+  "author": "Angad Luthra",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/angadluthra/angadluthra.git"
+  },
+  "homepage": "https://angadluthra.me",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+} 
